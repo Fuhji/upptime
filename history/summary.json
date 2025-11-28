@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/inhfl-api-uat.bgs.ac.uk.ico",
     "slug": "inhfl-graph-ql-uat",
     "status": "up",
-    "uptime": "0.87%",
-    "uptimeDay": "0.87%",
-    "uptimeWeek": "0.87%",
-    "uptimeMonth": "0.87%",
-    "uptimeYear": "0.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 797,
     "timeDay": 797,
     "timeWeek": 797,
     "timeMonth": 797,
     "timeYear": 797,
-    "dailyMinutesDown": {
-      "2025-11-28": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
