@@ -1,7 +1,7 @@
 url: https://inhfl-api-uat.bgs.ac.uk/browser/graphql
-status: down
+status: up
 code: 401
-responseTime: 602
-lastUpdated: 2025-11-28T15:06:25.299Z
+responseTime: 991
+lastUpdated: 2025-11-28T15:13:08.225Z
 startTime: 2025-11-28T15:06:24.499Z
 generator: Upptime <https://github.com/upptime/upptime>
