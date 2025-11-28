@@ -16,7 +16,7 @@ sites:
       - 401
 
 status-website:
-  themeUrl: theme.css
+  themeUrl: https://fuhji.github.io/upptime/theme.css
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: INHFL Monitoring
