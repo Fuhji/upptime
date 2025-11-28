@@ -9,12 +9,11 @@ sites:
     url: https://inhfl-api-uat.bgs.ac.uk/browser/graphql
     method: POST
     headers:
-      Content-Type: application/json
+      - "Content-Type: application/json"
     body: |
-      {
-        "query": "{ __typename }"
-      }
+      { "query": "{ __typename }" }
     expectedResponse: '{"error":"Session cookie missing."}'
+
 
 
 
