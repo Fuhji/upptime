@@ -5,15 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: BGS
     url: https://www.bgs.ac.uk/
-  - name: SDDS GraphQL
-    url: https://sdds.bgs.ac.uk/graphql
-    method: POST
-    headers:
-      Content-Type: application/json
-    body: '{"query":"{ __typename }"}'
-    expectedStatusCodes:
-      - 200
-    keyword: '"errors":'
+  - name: INHFL GraphQL UAT
+      url: https://inhfl-api-uat.bgs.ac.uk/browser/graphql
+      method: POST
+      headers:
+        Content-Type: application/json
+      body: |
+        {
+          "query": "{ __typename }"
+        }
+      expectedResponse: '{"error":"Session cookie missing."}'
+
 
 
 status-website:
@@ -22,8 +24,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Uptime Monitoring"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "INHFL Monitoring"
+  introMessage: Intro
   navbar:
     - title: Status
       href: /
