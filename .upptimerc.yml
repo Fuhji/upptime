@@ -12,7 +12,9 @@ sites:
       - "Content-Type: application/json"
     body: |
       { "query": "{ __typename }" }
-    expectedResponse: '{"error":"Session cookie missing."}'
+    expectedStatusCodes:
+      - 401
+
 
 
 
