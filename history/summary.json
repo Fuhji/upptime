@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bgs.ac.uk.ico",
     "slug": "bgs",
     "status": "down",
-    "uptime": "31.22%",
-    "uptimeDay": "31.22%",
-    "uptimeWeek": "31.22%",
-    "uptimeMonth": "31.22%",
-    "uptimeYear": "31.22%",
+    "uptime": "1.57%",
+    "uptimeDay": "1.57%",
+    "uptimeWeek": "1.57%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 0
+      "2025-11-28": 5
     }
   }
 ]
