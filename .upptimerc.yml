@@ -15,12 +15,8 @@ sites:
     expectedStatusCodes:
       - 401
 
-
-
-
-
 status-website:
-  themeUrl: https://github.com/Fuhji/upptime/blob/master/assets/theme.css
+  themeUrl: https://raw.githubusercontent.com/Fuhji/upptime/refs/heads/master/assets/theme.css
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: INHFL Monitoring
