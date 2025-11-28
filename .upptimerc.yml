@@ -3,8 +3,8 @@ owner: fuhji # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: BGS
-    url: https://www.bgs.ac.uk/
+  - name: INHFL GUI UAT
+    url: https://inhfl-uat.bgs.ac.uk/
   - name: INHFL GraphQL UAT
     url: https://inhfl-api-uat.bgs.ac.uk/browser/graphql
     method: POST
