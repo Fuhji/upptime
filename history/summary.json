@@ -5,17 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/inhfl-uat.bgs.ac.uk.ico",
     "slug": "inhfl-gui-uat",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "90.21%",
+    "uptimeDay": "37.34%",
+    "uptimeWeek": "90.21%",
+    "uptimeMonth": "90.21%",
+    "uptimeYear": "90.21%",
     "time": 1337,
-    "timeDay": 1564,
+    "timeDay": 0,
     "timeWeek": 1337,
     "timeMonth": 1337,
     "timeYear": 1337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 57,
+      "2025-12-04": 845
+    }
   },
   {
     "name": "INHFL GraphQL UAT",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 1094,
-    "timeWeek": 800,
-    "timeMonth": 800,
-    "timeYear": 800,
+    "time": 790,
+    "timeDay": 647,
+    "timeWeek": 790,
+    "timeMonth": 790,
+    "timeYear": 790,
     "dailyMinutesDown": {}
   }
 ]
